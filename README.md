@@ -9,4 +9,6 @@ The attention layer has been adopted in numerous sequential and spatial processi
 
 François Fleuret came up with a [toy sequential task](https://twitter.com/francoisfleuret/status/1262639062785105922) that's great for learning about attention mechanisms. I find notebooks to be the ideal playground for fiddling with ideas and in this repo I take François' work to hack around and explore. 
 
-The `demo.ipynb` notebook goes through his code and tries to explain how the various components work. I tried to strip away his original code to what is most useful for learning and exploring. 
+---
+
+The `demo.ipynb` notebook goes through François'code and tries to explain how the various components work. I tried to strip away his original code to what is most useful for learning and exploring. 
